@@ -18,7 +18,7 @@ fi
 echo -e "IP-VPS          :  $IPVPS"
 echo -e "ISP-VPS         :  $ISPVPS"
 echo "╔═════════════════════════════════════════════════════════════════╗"
-echo "║                     ┃ Script By SL ┃                                       ║" 
+echo "║                     ┃ Script By Sincan2 ┃                       ║" 
 echo "╚═════════════════════════════════════════════════════════════════╝"
 echo "╔═════════════════════════════════════════════════════════════════╗"
 echo "║ ┃ Link Script ┃  ┃ https://github.com/fisabiliyusri/MANTAP-XRAY ┃          ║" 
