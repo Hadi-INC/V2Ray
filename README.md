@@ -1,8 +1,8 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=SCRIPT+XRAY+MANTAP" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Sincan2" />
 </p>
 
-# XRAY MANTAP
+# XRAY Sincan2
 
 - **_Script XRAY Multi Port 443/80 By SL_**
 - **_SCRIPT UNTUK MEMBUAT SERVER VPN_**
@@ -98,7 +98,7 @@ EOF
 - jika keluar dari vps saat lagi proses install,maka akan gagal
 
 ```
-wget https://raw.githubusercontent.com/justnotiyann/V2ray-X2ray-443-Fork/main/setup.sh && chmod +x setup.sh && ./setup.sh
+wget https://raw.githubusercontent.com/Sincan2/V2ray/main/setup.sh && chmod +x setup.sh && ./setup.sh
 ```
 
 6. jika sudah selesai,lalu ketik xmenu untuk menampilkan menu
@@ -137,7 +137,7 @@ restart-xray
 - Link:
 
 ```
-https://youtu.be/Pwfvwy5Ghcw
+https://mergosono.my.id
 ```
 
 # Cara Pointing Subdomain Secara Otomatis Di Cloudflare Menggunakan Script
